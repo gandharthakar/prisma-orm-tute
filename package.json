@@ -1,0 +1,27 @@
+{
+  "name": "prisma-orm-tute",
+  "version": "1.0.0",
+  "description": "This repo having basic understanding of prisma ORM with SQL databases.",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandharthakar/prisma-orm-tute.git"
+  },
+  "author": "Gandhar Thakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gandharthakar/prisma-orm-tute/issues"
+  },
+  "homepage": "https://github.com/gandharthakar/prisma-orm-tute#readme",
+  "devDependencies": {
+    "@prisma/client": "^5.12.1",
+    "@types/node": "^20.12.7",
+    "nodemon": "^3.1.0",
+    "prisma": "^5.12.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
